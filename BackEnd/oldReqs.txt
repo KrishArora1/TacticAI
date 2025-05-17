@@ -1,0 +1,9 @@
+pandas
+numpy
+seaborn
+ipywidgets
+python-dotenv
+matplotlib
+python-dateutil
+boto3
+gunicorn
