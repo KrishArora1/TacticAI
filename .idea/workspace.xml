@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3214260d-a57a-45b1-8b78-363e8d16518d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/FrontEnd" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/DropdownHelp.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/src/components/DropdownHelp.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/DropdownNotifications.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/src/components/DropdownNotifications.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/ModalSearch.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/src/components/ModalSearch.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/pages/Dashboard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/src/pages/Dashboard.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/partials/Banner.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/src/partials/Banner.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/partials/Sidebar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/src/partials/Sidebar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/partials/dashboard/DashboardCard01.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/src/partials/dashboard/DashboardCard01.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/partials/dashboard/DashboardCard02.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/src/partials/dashboard/DashboardCard02.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/partials/dashboard/DashboardCard03.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/src/partials/dashboard/DashboardCard03.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/partials/dashboard/DashboardCard04.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/src/partials/dashboard/DashboardCard04.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/partials/dashboard/DashboardCard05.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/src/partials/dashboard/DashboardCard05.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/partials/dashboard/DashboardCard06.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/src/partials/dashboard/DashboardCard06.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/partials/dashboard/DashboardCard07.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/src/partials/dashboard/DashboardCard07.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/partials/dashboard/DashboardCard09.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/src/partials/dashboard/DashboardCard09.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/partials/dashboard/DashboardCard10.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/src/partials/dashboard/DashboardCard10.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/vite.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animation_notrail.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/animation_notrail.mp4" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2xD7ErDbSfA8XOfIsC57m0nFZgY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/krisharora/Downloads/TacticAIHack",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.220" />
+        <option value="bundled-python-sdk-0fc6c617c4bd-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.220" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3214260d-a57a-45b1-8b78-363e8d16518d" name="Changes" comment="" />
+      <created>1747460683484</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747460683484</updated>
+      <workItem from="1747460685097" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
