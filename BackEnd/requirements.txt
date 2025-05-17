@@ -6,3 +6,4 @@ python-dotenv
 matplotlib
 python-dateutil
 boto3
+gunicorn
