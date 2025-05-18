@@ -30,7 +30,7 @@
     "tailwind-merge": "^2.5.5"
   },
   "devDependencies": {
-    "@rollup/rollup-darwin-arm64": "^4.34.8",
+    "@rollup": "^4.34.8",
     "@tailwindcss/postcss": "^4.0.0",
     "@vitejs/plugin-react": "^4.2.1",
     "postcss": "^8.4.32",
