@@ -13,6 +13,6 @@ export default defineConfig({
     }
   },
   server: {
-    allowedHosts: ['https://664e-128-61-43-73.ngrok-free.app', 'localhost']
+    allowedHosts: ['https://664e-128-61-43-73.ngrok-free.app', 'localhost', 'onrender.com']
   } 
 })
