@@ -26,6 +26,7 @@ httplib2==0.22.0
 jsonpointer==2.1
 matplotlib==3.7.4
 opencv-python==4.9.0.80
+pandas==2.2.2
 pillow==10.2.0
 proto-plus==1.26.1
 protobuf==4.25.3
